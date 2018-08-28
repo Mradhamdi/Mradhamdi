@@ -1,0 +1,112 @@
+.header-div{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(68, 142, 240);
+    width: 100vw;
+    height: 550px;
+}
+.logo{
+    width: 10%;
+    margin-left: 3%;
+}
+.super-title{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 3%;
+    width: 15%;
+    color: white;
+}
+.infos{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 2%;
+}
+.all-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.niveaux{
+    width: 50%;
+    padding: 2%;
+    
+}
+.info-title{
+    background-color: rgb(68, 142, 240);
+    color: white;
+}
+.info{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.info-text{
+    text-align: justify;
+    padding: 1%;
+}
+.text-gras{
+    font-weight: bold;
+}
+.text-container{
+    display: flex;
+    flex-direction: row;
+}
+.info-title-par{
+    background-color: rgb(68, 142, 240);
+    width: 50%;
+    color: white;
+}
+#parcour{
+    font-size: 60px;
+   padding: 0%;
+}
+#web{
+    font-size: 100px;;
+}
+
+.niveau{
+    padding: 2%;
+}
+#count{
+    width: 3%;
+}
+.first-sec{
+    margin-bottom: 5%;
+}
+.nivs{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.niv{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    width: 45%;
+    color: rgb(68, 142, 240);
+}
+.text-niv{
+    padding-left: 25%;
+    font-size: 30px;
+    margin-bottom: -5%;
+}
+.text-niv2{
+    font-size: 30px;
+    font-weight: bold;
+}
+.parag-1{
+   padding: 2%;
+}
+.parag-2{
+    padding: 2%;
+}
+#parcour-web{
+    font-size: 100px;
+    margin-left: 20%;
+    color: rgb(68, 142, 240);
+}
